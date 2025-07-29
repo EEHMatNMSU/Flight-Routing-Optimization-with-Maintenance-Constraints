@@ -14,7 +14,7 @@ This repository contains the simulation code to reproduce the tables and figures
 
 
 
-The script `main.m`, that is in the root directory of this repository, execute the simulation.
+The script `main.m`, that is in the root directory of this repository, executes the simulation.
 
 
 
